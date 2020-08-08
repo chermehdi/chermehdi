@@ -6,3 +6,8 @@
 
 * I am pationate about teaching people what I learned, So if you have a project involving teaching people new things, feel free to reach out.
 
+
+### Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
