@@ -1,6 +1,6 @@
 ## Hi there, I'm Mehdi welcome to my profile.
 
-* I am a Software Engineer, Living in Dublin, and a **Huge** Java enthusiast (Go and Rust lately).
+* I am a Software Engineer, Living in London, and a **Huge** Rust and Go enthusiast.
 
 * Mostly interested in projects involving (but not limited to) Compilers, Programming languages, Developer tools ...
 
